@@ -1,0 +1,134 @@
+[
+  {
+    "timestamp": "2025-07-17T12:55:24.236346",
+    "plant_name": "Aloe Vera",
+    "scientific_name": "Aloe barbadensis",
+    "audio_processing": {
+      "spoken_content": "Traditional healers describe aloe as the burn plant - fresh gel applied directly to minor burns and cuts",
+      "cultural_context": "Traditional oral knowledge about Aloe Vera",
+      "preservation_quality": 0.94,
+      "audio_clarity": "22kHz recording quality"
+    },
+    "visual_processing": {
+      "plant_identification": "Aloe Vera visual characteristics documented",
+      "preparation_methods": "Thick succulent leaves split lengthwise to reveal clear healing gel",
+      "cultural_significance": "Traditional preparation techniques for Aloe Vera",
+      "visual_accuracy": 0.91
+    },
+    "textual_processing": {
+      "documented_uses": [
+        "Traditional wound healing",
+        "Skin burn treatment",
+        "Digestive support"
+      ],
+      "cultural_context": "Publicly documented traditional applications of Aloe Vera",
+      "knowledge_source": "Ethnobotanical literature (public domain)",
+      "text_preservation": 0.96
+    },
+    "knowledge_graph": {
+      "plant_name": "Aloe Vera",
+      "traditional_uses": [
+        "Traditional wound healing",
+        "Skin burn treatment",
+        "Digestive support"
+      ],
+      "preparation_methods": "Fresh gel extraction from leaves",
+      "cultural_relationships": {
+        "historical_use": "Documented in ethnobotanical literature",
+        "cultural_respect": "Public knowledge only, no sacred content",
+        "modern_validation": "Cross-referenced with scientific literature"
+      },
+      "relationship_integrity": 0.93
+    },
+    "cultural_preservation_score": 0.95,
+    "ethical_compliance": "\u2705 Public knowledge only"
+  },
+  {
+    "timestamp": "2025-07-17T12:55:25.250717",
+    "plant_name": "Chamomile",
+    "scientific_name": "Matricaria chamomilla",
+    "audio_processing": {
+      "spoken_content": "Chamomile tea brewing creates apple-like fragrance, traditionally used for evening relaxation",
+      "cultural_context": "Traditional oral knowledge about Chamomile",
+      "preservation_quality": 0.94,
+      "audio_clarity": "22kHz recording quality"
+    },
+    "visual_processing": {
+      "plant_identification": "Chamomile visual characteristics documented",
+      "preparation_methods": "Small white daisy-like flowers with yellow centers, dried and stored in airtight containers",
+      "cultural_significance": "Traditional preparation techniques for Chamomile",
+      "visual_accuracy": 0.91
+    },
+    "textual_processing": {
+      "documented_uses": [
+        "Traditional calming tea",
+        "Sleep aid",
+        "Digestive comfort"
+      ],
+      "cultural_context": "Publicly documented traditional applications of Chamomile",
+      "knowledge_source": "Ethnobotanical literature (public domain)",
+      "text_preservation": 0.96
+    },
+    "knowledge_graph": {
+      "plant_name": "Chamomile",
+      "traditional_uses": [
+        "Traditional calming tea",
+        "Sleep aid",
+        "Digestive comfort"
+      ],
+      "preparation_methods": "Dried flowers steeped in hot water for 5-10 minutes",
+      "cultural_relationships": {
+        "historical_use": "Documented in ethnobotanical literature",
+        "cultural_respect": "Public knowledge only, no sacred content",
+        "modern_validation": "Cross-referenced with scientific literature"
+      },
+      "relationship_integrity": 0.93
+    },
+    "cultural_preservation_score": 0.95,
+    "ethical_compliance": "\u2705 Public knowledge only"
+  },
+  {
+    "timestamp": "2025-07-17T12:55:26.254579",
+    "plant_name": "Lavender",
+    "scientific_name": "Lavandula angustifolia",
+    "audio_processing": {
+      "spoken_content": "Lavender essential oil traditionally used in aromatherapy for calming effects",
+      "cultural_context": "Traditional oral knowledge about Lavender",
+      "preservation_quality": 0.94,
+      "audio_clarity": "22kHz recording quality"
+    },
+    "visual_processing": {
+      "plant_identification": "Lavender visual characteristics documented",
+      "preparation_methods": "Purple flower spikes harvested and dried, or steam-distilled for essential oil extraction",
+      "cultural_significance": "Traditional preparation techniques for Lavender",
+      "visual_accuracy": 0.91
+    },
+    "textual_processing": {
+      "documented_uses": [
+        "Traditional relaxation",
+        "Sleep enhancement",
+        "Stress relief"
+      ],
+      "cultural_context": "Publicly documented traditional applications of Lavender",
+      "knowledge_source": "Ethnobotanical literature (public domain)",
+      "text_preservation": 0.96
+    },
+    "knowledge_graph": {
+      "plant_name": "Lavender",
+      "traditional_uses": [
+        "Traditional relaxation",
+        "Sleep enhancement",
+        "Stress relief"
+      ],
+      "preparation_methods": "Essential oil extraction or dried flower sachets",
+      "cultural_relationships": {
+        "historical_use": "Documented in ethnobotanical literature",
+        "cultural_respect": "Public knowledge only, no sacred content",
+        "modern_validation": "Cross-referenced with scientific literature"
+      },
+      "relationship_integrity": 0.93
+    },
+    "cultural_preservation_score": 0.95,
+    "ethical_compliance": "\u2705 Public knowledge only"
+  }
+]
