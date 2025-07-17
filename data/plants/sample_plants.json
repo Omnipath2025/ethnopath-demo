@@ -1,0 +1,140 @@
+{
+"sample_plants": {
+"metadata": {
+"description": "Sample traditional plant knowledge for EthnoPath demonstration",
+"ethical_compliance": "Public domain knowledge only - no sacred or proprietary content",
+"data_source": "Publicly documented ethnobotanical literature",
+"last_updated": "2025-01-17",
+"total_plants": 3
+},
+"plants": [
+{
+"id": "aloe_vera_001",
+"common_name": "Aloe Vera",
+"scientific_name": "Aloe barbadensis miller",
+"family": "Asphodelaceae",
+"traditional_knowledge": {
+"documented_uses": [
+"Topical wound healing",
+"Minor burn treatment",
+"Skin moisturizing",
+"Digestive support (historical)"
+],
+"preparation_methods": [
+"Fresh gel extraction from leaves",
+"Direct application to skin",
+"Juice extraction for internal use"
+],
+"cultural_contexts": [
+"Ancient Egyptian medicine",
+"Traditional Mediterranean remedies",
+"Modern herbal practice"
+],
+"safety_notes": "Generally safe for topical use; consult healthcare provider for internal use"
+},
+"geographic_distribution": [
+"Mediterranean region",
+"North Africa",
+"Arabian Peninsula",
+"Cultivated worldwide"
+],
+"physical_description": {
+"plant_type": "Succulent perennial",
+"leaves": "Thick, fleshy, serrated edges",
+"gel": "Clear, viscous interior gel",
+"size": "12-24 inches tall"
+}
+},
+{
+"id": "chamomile_001",
+"common_name": "German Chamomile",
+"scientific_name": "Matricaria chamomilla",
+"family": "Asteraceae",
+"traditional_knowledge": {
+"documented_uses": [
+"Calming herbal tea",
+"Sleep aid",
+"Digestive comfort",
+"Mild inflammation relief"
+],
+"preparation_methods": [
+"Dried flower infusion",
+"Hot water steeping 5-10 minutes",
+"Essential oil extraction",
+"Topical compress preparation"
+],
+"cultural_contexts": [
+"European folk medicine",
+"Traditional German herbalism",
+"Modern herbal tea tradition"
+],
+"safety_notes": "Generally safe; rare allergic reactions in those sensitive to Asteraceae family"
+},
+"geographic_distribution": [
+"Europe",
+"Western Asia",
+"North America (naturalized)",
+"Cultivated globally"
+],
+"physical_description": {
+"plant_type": "Annual herb",
+"flowers": "Small white petals, yellow center",
+"fragrance": "Sweet, apple-like scent",
+"size": "6-24 inches tall"
+}
+},
+{
+"id": "lavender_001",
+"common_name": "English Lavender",
+"scientific_name": "Lavandula angustifolia",
+"family": "Lamiaceae",
+"traditional_knowledge": {
+"documented_uses": [
+"Aromatherapy for relaxation",
+"Sleep enhancement",
+"Stress relief",
+"Mild antiseptic (topical)"
+],
+"preparation_methods": [
+"Essential oil steam distillation",
+"Dried flower sachets",
+"Herbal tea preparation",
+"Topical oil infusion"
+],
+"cultural_contexts": [
+"Mediterranean traditional medicine",
+"French aromatherapy tradition",
+"English herb garden culture"
+],
+"safety_notes": "Generally safe; dilute essential oil before topical use"
+},
+"geographic_distribution": [
+"Mediterranean basin",
+"Southern Europe",
+"Cultivated in temperate regions worldwide"
+],
+"physical_description": {
+"plant_type": "Perennial shrub",
+"flowers": "Purple-blue spikes",
+"fragrance": "Distinctive sweet, floral scent",
+"size": "1-3 feet tall and wide"
+}
+}
+]
+},
+"usage_guidelines": {
+"ethical_framework": {
+"public_knowledge_only": true,
+"cultural_respect": "Acknowledge traditional knowledge sources",
+"attribution_required": true,
+"commercial_use": "Respect traditional knowledge holders",
+"sacred_content_excluded": true
+},
+"disclaimers": [
+"This information is for educational purposes only",
+"Not intended as medical advice",
+"Consult healthcare providers for health concerns",
+"Traditional use does not guarantee safety or efficacy"
+]
+}
+}
