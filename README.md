@@ -113,3 +113,24 @@ ethnopath-demo/
 Built with ❤️ and cultural respect for traditional knowledge holders worldwide
 Preserving traditional wisdom through ethical technology - 501(c)(3) public good
 Licensed under MIT - Built for cultural preservation and community empowerment
+
+🛠️ Repository Structure (Working Demo)
+ethnopath-demo/
+├── README.md                    # This file
+├── requirements.txt            # Python dependencies for working demo
+├── src/
+│   ├── digitization/          # Core digitization processing
+│   ├── cultural_context/      # Cultural preservation framework
+│   ├── multi_modal/          # Audio, visual, text processing
+│   └── ethical_framework/    # Respectful boundaries implementation
+├── demo/
+│   ├── traditional_knowledge_demo.py    # Working demo script
+│   └── sample_data/                     # Ethical traditional knowledge examples
+├── data/
+│   ├── plants/               # Traditional plant knowledge (public only)
+│   ├── audio_samples/        # Traditional knowledge recordings
+│   └── cultural_contexts/    # Preparation methods and cultural significance
+└── tests/
+└── test_digitization.py   # Verify respectful processing
+
+📞 Contact & Community
