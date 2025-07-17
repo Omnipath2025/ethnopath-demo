@@ -47,6 +47,7 @@ pip install -r requirements.txt
 
 # Run traditional knowledge digitization demo
 python demo/traditional_knowledge_demo.py
+```
 Expected output: Complete digitization of 3 traditional plants with cultural context
 
 Aloe Vera: Traditional wound healing applications with preparation methods
