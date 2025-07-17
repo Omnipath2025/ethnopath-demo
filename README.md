@@ -22,22 +22,23 @@ Real Results: Actual digitization of traditional plant knowledge
 🔧 Technical Capabilities (Working Now!)
 Real Multi-Modal Processing:
 
-Audio Analysis: Traditional knowledge spoken recordings processed and indexed
-Visual Recognition: Plant identification and preparation method documentation
-Text Processing: Cultural context extraction and preservation
-Knowledge Graphs: Relationship mapping between plants, uses, and cultural contexts
+- **Audio Analysis:** Traditional knowledge spoken recordings processed and indexed
+- **Visual Recognition:** Plant identification and preparation method documentation
+- **Text Processing:** Cultural context extraction and preservation
+- **Knowledge Graphs:** Relationship mapping between plants, uses, and cultural contexts
 
 Cultural Preservation Framework:
 
-Respectful Digitization: Ethical guidelines built into every processing step
-Context Preservation: Traditional preparation methods and cultural significance maintained
-Community Consent: Framework for working with traditional knowledge holders (when applicable)
-Attribution Protection: Privacy-preserving attribution for knowledge sources
+- **Respectful Digitization:** Ethical guidelines built into every processing step
+- **Context Preservation:** Traditional preparation methods and cultural significance maintained
+- **Community Consent:** Framework for working with traditional knowledge holders (when applicable)
+- **Attribution Protection:** Privacy-preserving attribution for knowledge sources
 
 
 🧪 Live Demo: Try It Yourself
 Working Demo Components:
-bash# Clone and run the working demo
+```bash
+# Clone and run the working demo
 git clone https://github.com/Omnipath2025/ethnopath-demo.git
 cd ethnopath-demo
 
@@ -67,13 +68,18 @@ Use of FundsAmountReal Impact🌿 Expand Plant Database$6K (40%)Scale from 3 to 
 
 📊 Technical Performance (Working Demo Results)
 Demonstrated Processing Capabilities:
-FeaturePerformanceTraditional Knowledge FocusMulti-Modal Integration94% accuracyAudio + Visual + Text processingCultural Context Preservation96% retentionTraditional preparation methods maintainedProcessing Speed15s/plant digitizationReal-time traditional knowledge captureEthical Compliance100% boundary respectOnly public knowledge, no sacred content
+| Feature | Performance | Traditional Knowledge Focus |
+|---------|-------------|-----------------------------|
+| Multi-Modal Integration | 94% accuracy | Audio + Visual + Text processing |
+| Cultural Context Preservation | 96% retention | Traditional preparation methods maintained |
+| Processing Speed | 15s/plant digitization | Real-time traditional knowledge capture |
+| Ethical Compliance | 100% boundary respect | Only public knowledge, no sacred content |
 Working Demo Architecture:
 
-Audio Processing: 22kHz traditional knowledge recordings
-Visual Analysis: Plant identification and preparation documentation
-Text Processing: Cultural context extraction and relationship mapping
-Knowledge Graphs: Traditional use relationships and cultural significance
+- **Audio Processing:** 22kHz traditional knowledge recordings
+- **Visual Analysis:** Plant identification and preparation documentation
+- **Text Processing:** Cultural context extraction and relationship mapping
+- **Knowledge Graphs:** Traditional use relationships and cultural significance
 
 
 🛠️ Repository Structure (Working Demo)
